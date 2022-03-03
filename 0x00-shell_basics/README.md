@@ -8,4 +8,6 @@ The Seventh Script Create a script that creates a directory named my first direc
 The eighth script Move the file betty from /tmp/ to /tmp/my first directory
 The Ninth Script Delete the file betty
 The Tenth Script Delete the directory my first directory that is in the /tmp directory.
-The Eleventh Script changes the working directory to the previous one. 
+The Eleventh Script changes the working directory to the previous one
+The Twelfth Script list all hidden files
+. 
