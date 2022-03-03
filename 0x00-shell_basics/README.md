@@ -10,4 +10,4 @@ The Ninth Script Delete the file betty
 The Tenth Script Delete the directory my first directory that is in the /tmp directory.
 The Eleventh Script changes the working directory to the previous one
 The Twelfth Script list all hidden files
-. 
+The Thirteent Script prints the type of the file named iamafile
