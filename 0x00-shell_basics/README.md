@@ -2,3 +2,4 @@ The first is a script that prints the abosulte path name of current working dire
 The second is a script that display the contents list of your current directory.
 The Third Script will change the working directory to home directory
 The fourth Script Display current directory contents in a long format
+The Fifth Script Display current directory contents, including hidden files (starting with 
