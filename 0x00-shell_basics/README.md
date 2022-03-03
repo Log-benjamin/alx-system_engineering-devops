@@ -7,4 +7,5 @@ The Sixth Script Display current directory contents in long format with user and
 The Seventh Script Create a script that creates a directory named my first directory in the /tmp/ directory. 
 The eighth script Move the file betty from /tmp/ to /tmp/my first directory
 The Ninth Script Delete the file betty
-The Tenth Script Delete the directory my first directory that is in the /tmp directory. 
+The Tenth Script Delete the directory my first directory that is in the /tmp directory.
+The Eleventh Script changes the working directory to the previous one. 
