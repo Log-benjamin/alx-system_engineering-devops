@@ -30,3 +30,6 @@ The 13 Script Create a symbolic link
 The 14 script copies all the HTML files from the current working directory to the parent of the working directory
 
 The 15 Script moves all files beginning with an uppercase letter to the directory /tmp/u.
+
+The 16 Script deletes all files in the current working directory that end with the character ~.
+
