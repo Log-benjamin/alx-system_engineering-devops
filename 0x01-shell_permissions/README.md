@@ -5,4 +5,4 @@ The 3 Task Script changes the owner of the file hello to the user betty.
 The 4 Task Script creates an empty file called hello.
 The 5 Task Script adds execute permission to the owner of the file hello.
 The 6 Task Script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
-
+The 7 Task Script adds execution permission to the owner, the group owner and the other users, to the file hello
