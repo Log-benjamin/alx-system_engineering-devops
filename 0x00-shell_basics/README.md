@@ -11,4 +11,4 @@ The Tenth Script Delete the directory my first directory that is in the /tmp dir
 The Eleventh Script changes the working directory to the previous one
 The Twelfth Script list all hidden files
 The Thirteent Script prints the type of the file named iamafil
-The Fourtinthe Script Create a symbolic link
+The Fourtinth Script Create a symbolic link
