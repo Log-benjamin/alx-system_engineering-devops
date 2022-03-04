@@ -33,3 +33,5 @@ The 15 Script moves all files beginning with an uppercase letter to the director
 
 The 16 Script deletes all files in the current working directory that end with the character ~.
 
+The 17 Script creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
