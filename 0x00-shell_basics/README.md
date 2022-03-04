@@ -36,3 +36,6 @@ The 16 Script deletes all files in the current working directory that end with t
 The 17 Script creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 
 The 18 Script creates Write a command that lists all the files and directories of the current directory, separated by commas (,).
+
+The 19 Script Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+
