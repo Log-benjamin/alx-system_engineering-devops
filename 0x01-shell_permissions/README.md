@@ -9,3 +9,5 @@ The 7 Task Script adds execution permission to the owner, the group owner and th
 The 8 Task Script sets the permission to the file hello no permisson for owner and group and all permssion for others.
 The 9 Task  sets the mode of the file hello to -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 The 10 Task Script sets the mode of the file hello the same as olleh’s mode.`
+The 11 Task Script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. 
+
