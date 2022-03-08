@@ -14,3 +14,10 @@ The 12 task  script  displays the 10 newest files in the current directory
 The 13 task Script takes a list of words as input and prints only words that appear exactly once.
 The 14 task Script Display lines containing the pattern “root” from the file /etc/passwd.
 The 15 task Sscript Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+The 16 task script Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+The 17 task script Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+The 18 task script Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+The 19 task script Replace all characters A and c from input to Z and e respectively.
+The 20 task  script removes all letters c and C from input.
+The 21 task script reverse its input.
+The 22 task script displays all users and their home directories, sorted by users.
