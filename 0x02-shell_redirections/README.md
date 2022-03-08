@@ -21,3 +21,14 @@ The 19 task script Replace all characters A and c from input to Z and e respecti
 The 20 task  script removes all letters c and C from input.
 The 21 task script reverse its input.
 The 22 task script displays all users and their home directories, sorted by users.
+The 23 task script finds all empty files and directories in the current directory and all sub-directories.
+The  24 task script lists all the files with a .gif extension in the current directory and all its sub-directories.
+The 25 task script decodes acrostics that use the first letter of each line.
+The 26 task parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+
+
+
+
+
+
+
