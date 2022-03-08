@@ -4,4 +4,5 @@ The 2 Task script Display the content of the /etc/passwd file.
 The 3 Task Script Display the content of /etc/passwd and /etc/hosts.
 The 4 Task Script Display the last 10 lines of /etc/passwd
 The 5 Task Script Display the first 10 lines of /etc/passwd
-The 6 Task Script displays the third line of the file iacta.
+The 6 Task Script displays the third line of the file iactai.
+The 7 Task Script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
