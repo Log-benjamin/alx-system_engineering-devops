@@ -13,3 +13,4 @@ The 11 task scrip counts the number of directories and sub-directories in the cu
 The 12 task  script  displays the 10 newest files in the current directory
 The 13 task Script takes a list of words as input and prints only words that appear exactly once.
 The 14 task Script Display lines containing the pattern “root” from the file /etc/passwd.
+The 15 task Sscript Display the number of lines that contain the pattern “bin” in the file /etc/passwd
