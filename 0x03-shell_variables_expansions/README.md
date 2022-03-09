@@ -12,3 +12,7 @@ The 10 task script displays the result of BREATH to the power LOVE.
 The 11 task script converts a number from base 2 to base 10.
 The 12 task script prints all possible combinations of two letters, except oo.
 The 13 task script prints a number with two decimal places, followed by a new line.
+The 14 task script converts a number from base 10 to base 16.
+The 15 task script encodes and decodes text using the rot13 encryption. Assume ASCII.
+The 16 task script prints every other line from the input, starting with the first line.
+The 17 task script  adds the two numbers stored in the environment variables WATER and STIR and prints the result.
